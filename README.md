@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **himyjan/himyjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,tailwind,astro,nextjs,react,redux,prisma,nodejs,bash,androidstudio,graphql,apollo,vite,webpack,vercel,md,unreal,unity,blender,cs,flutter,dart,docker,kubernetes,py,vscode,visualstudio,idea,eclipse,vim,express,firebase,ps,ai,pr,processing)](https://skillicons.dev)
