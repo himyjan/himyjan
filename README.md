@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,js,html,css,tailwind,astro,nextjs,react,redux,jest,materialui,nuxtjs,vue,angular,prisma,nodejs,bash,androidstudio,graphql,apollo,vite,webpack,vercel,netlify,heroku,md,unreal,unity,blender,powershell,linux,cs,flutter,dart,nginx,docker,kubernetes,py,vscode,visualstudio,idea,eclipse,vim,express,firebase,ps,ai,pr,processing,lua,codepen)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=himyjan" width="400"/>
+</a>
