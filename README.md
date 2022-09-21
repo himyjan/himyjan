@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=himyjan" width="400"/>
-</a>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=himyjan&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
