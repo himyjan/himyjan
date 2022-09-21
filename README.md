@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![](https://raw.githubusercontent.com/himyjan/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/himyjan/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/himyjan/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/himyjan/github-profile-summary-cards) [![](https://raw.githubusercontent.com/himyjan/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/himyjan/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/himyjan/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/himyjan/github-profile-summary-cards) [![](https://raw.githubusercontent.com/himyjan/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/himyjan/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/himyjan/himyjan/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/himyjan/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/himyjan/himyjan/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/himyjan/github-profile-summary-cards) [![](https://raw.githubusercontent.com/himyjan/himyjan/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/himyjan/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/himyjan/himyjan/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/himyjan/github-profile-summary-cards) [![](https://raw.githubusercontent.com/himyjan/himyjan/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/himyjan/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
