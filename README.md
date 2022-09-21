@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="center">A passionate frontend developer from TW</h3>
+<h3 align="center">A passionate developer from TW</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himyjan&label=Profile%20views&color=0e75b6&style=flat" alt="himyjan" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,8 +32,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=himyjan&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himyjan&label=Profile%20views&color=0e75b6&style=flat" alt="himyjan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark" alt="himyjan" /></a> </p>
 
