@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/himyjan)](https://leetcode.com/himyjan?theme=dark&font=Mochiy%20Pop%20One&ext=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/himyjan?theme=dark&font=Mochiy%20Pop%20One&ext=activity)](https://leetcode.com/himyjan)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=himyjan&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
