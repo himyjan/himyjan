@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/himyjan?theme=dark&font=Mochiy%20Pop%20One&ext=activity)](https://leetcode.com/himyjan)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=himyjan&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himyjan&theme=onedark" alt="himyjan" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himyjan&theme=onedark&show_icons=true&locale=en&layout=compact" alt="himyjan" /></p>
